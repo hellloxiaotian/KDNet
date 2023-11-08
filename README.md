@@ -12,11 +12,11 @@
 
 ## Datasets
 ### Training datasets
-#### The training dataset CCPD is downloaded at [https://data.vision.ee.ethz.ch/cvl/DIV2K/](https://github.com/detectRecog/CCPD). 
+#### The training dataset CCPD is downloaded at (https://github.com/detectRecog/CCPD). 
 #### The AOLP dataset is downloaded at (https://github.com/AvLab-CV/AOLP).
 
 ### Test datasets
-#### The test dataset of CCPD is downloaded at [https://data.vision.ee.ethz.ch/cvl/DIV2K/](https://github.com/detectRecog/CCPD).
+#### The test dataset of CCPD is downloaded at (https://github.com/detectRecog/CCPD).
 #### The test dataset of CLPD is downloaded at (https://github.com/wangpengnorman/CLPD_dataset).
 #### The test dataset of AOLP is downloaded at (https://github.com/AvLab-CV/AOLP).
 
