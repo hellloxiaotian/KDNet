@@ -25,7 +25,7 @@
 ### cd tools
 ### Split the dataset and obtain corresponding labels.
 
-#### KDNet
+#### Train KDNet
 #### python train_KDNet.py
 
 #### Test with your own parameter setting or dataset in the test.py.
