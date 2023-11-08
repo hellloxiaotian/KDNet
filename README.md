@@ -26,6 +26,8 @@
 ### Split the dataset and obtain corresponding labels.
 
 #### Train KDNet
+#### Download pre-trained yolov7.pt at (https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt).
+#### cd KDNet
 #### python train_KDNet.py
 
 #### Test with your own parameter setting or dataset in the test.py.
